@@ -50,7 +50,7 @@ I want to work, for the best, with the best and help them be the best...
 
 ## What drive me in life? 
 
-What's really important to me? How do I want to be remembered? What gives me energy?  are the questions that I pose myself every day, and the short answer is helping people in a digital world where information and technology has a huge impact in human on day-to-day activity.
+**What's really important to me?** **How do I want to be remembered?** **What gives me energy?** are the questions that I pose myself every day, and the short answer is helping people in a digital world where information and technology has a huge impact in human on day-to-day activity.
 
 One of things I've learned overtime is that we need have financial incentives to drive performance and that financials incentives actually deteriorate performance.  We need to rely on create the right environment where people want to give their best. This goes from training environment to technology tools. So to top of our customer value proposition, the definition of the employees value proposition. We need to think that's going to be the big differentiator for companies.
 
@@ -221,37 +221,36 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 `In-progress`
 
+`Scheduled 2025-04`
+
 <br>[Canadian Securities Course]( https://www.csi.ca/en/learning/courses/csc ){:target="_blank"} 
 
 **About**
-<br>The Canadian Securities Course (CSC®) is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
+<br>This course is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
 
-This course will help learners fulfill CIRO and provincial regulatory requirements for baseline securities licensing as well as mutual funds sales, alternative mutual funds products, managed futures funds, exempt securities and labour-sponsored investment funds.
-
-Take the first step towards attaining your investment representative or registered representative license.
+This course is the essential for any provincial regulatory requirement for the baseline securities licensing as mutual funds sales. 
 
 **What skills will you develop?**
 <br>Understand the Canadian financial services landscape
-Gain knowledge about various financial instruments such as equities, managed products, structured products, derivatives and more
-Accurately assess company, industry and market performance
-Attain a deeper knowledge of industry standards and codes of ethics
-Learn the skills, knowledge and tools to serve your clients better
-Meet proficiency requirements to deal in Alternative Mutual Funds
+Gain knowledge about various financial instruments such as equities, managed products, structured products, derivatives.
+Accurately assess company, industry and market performance.
+Attain a deeper knowledge of industry standards and codes of ethics.
 
 
 
-
+`Scheduled 2025-04`
 
 <br>[Conduct and Practices Handbook Course]( https://www.csi.ca/en/learning/courses/cph ){:target="_blank"} 
 
 **About**
-<br>In a complex and evolving financial landscape, professionals must stay knowledgeable and compliant with the changing rules and regulations as laid out by the provincial securities administrators and the Canadian Investment Regulatory Organization (CIRO). The Conduct and Practices Handbook Course (CPH®) helps demystify the regulatory environment, providing you with a clear and current understanding of the rules, regulations, practices and ethics that will guide you through your career as an investment advisor or representative.
+<br>We are evolving in a complex financial landscape, which professionals must stay knowledgeable and compliant with the changing rules and regulations as laid out by the provincial securities administrators and the Canadian Investment Regulatory Organization (CIRO). 
+This course helps demystify the regulatory environment, providing you with a clear and current understanding of the rules, regulations, practices and ethics that will guide you through your career as an investment advisor or representative.
 
 **What skills will you develop?**
-<br>Compliance with regulatory requirements including CIRO proficiency requirements
-Demonstrated commitment to ethical practice and decision making
-A keen understanding of standards of conduct
-Deeper knowledge of securities rules and legislation
+<br>Compliance with regulatory requirements including CIRO proficiency requirements.
+Demonstrated commitment to ethical practice and decision making.
+A keen understanding of standards of conduct.
+Deeper knowledge of securities rules and legislation. 
 
 
 
@@ -332,7 +331,10 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ## Links portfolio
 
 * [ Online Portfolio ]( https://s-earnest.github.io ){:target="_blank"}
+
+<!-- 
 * [ Tableau Public ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"}
+-->
 
 
 ## Statistical Software Knowledge
@@ -376,66 +378,6 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 
 
-
-
-
-<!-- 
-
-
-`2005-2006`
-**Customised Course**, *EXCOM Education*, Melbourne, VIC, AUS.
-<br>
-*Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.*
-<br>
-
-`2004-2006`
-**Diploma of eBusiness Support**, *Computer Power Training Institute*, Melbourne, VIC, AUS.
-<br>
-*The course provides the comprehensive training needed in today's business world to develop and support electronic business solutions. Completion of the course includes the attainment of two of the industry's highly sought, globally recognised vendor certifications:Microsoft Certified Professional and either a CompTIA i-Net+ or Red Hat Linux Certified Technician certification.*
-<br>
-
-`2003`
-**VCE**, *Successfully completed Year 12 and achieved my VCE*, State School FTW.
-<br>
-
-
-<!--- ## Awards and honors <i class="fas fa-award"></i> --->
-
-
-
-<!-- 
-
-## Conference activity <i class="fas fa-chalkboard-teacher"></i>
-
-`2024`
-
-### CrowdStrike CrowdTour 2024
-
-**Speaker**, *Falcon Complete MDR response to SCATTERED SPIDER.*<br/>
-<br>
-I spoke @ both the Sydney and Melbourne CrowdTour events on how Falcon Complete is protecting our customers from Scattered Spider. The talk focused on a 'behind the scenes' look at how we work with our platfrom and friends in Counter Adversary Operations to proactively and reactively thwart this agressive Threat Actor. 
-
-I also provided guidance, both Falcon specific and genrally to assist customers/prospects etc to strenghten their Security posture against the most common TTPs that we see this TA abuse.
-
-`2019`
-
-### BSides Melbourne 2019
-
-**Speaker**, *Strengthening Security in a Post-Incident World.*<br/>
-<br>
-I spoke @ the inaugural BSides Melbourne 2019 on "Strengthening security in a post-incident world"
-
-The structure of my talk was to talk about the incident, who we are, the legislative landscape that we faced, the challenges we saw and how to strengthen security from the lessons we learnt, both technical and non technical.
-
-The goal of the talk was to share with the wider Security community what happened, share knowledge and leanings, and give attendees easy to implement suggestions for potential uplift at their own companies.
-
-
--->
-
-
-
-
-
 ## Hobbies <i class="fas fa-campground"></i>
 
 <br>**Travel**
@@ -445,18 +387,10 @@ The goal of the talk was to share with the wider Security community what happene
 
 
 
-<!-- 
-
-Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au">   <i class="fab fa-tumblr"></i></a> then we can talk <a href="https://blog.david-clarke.id.au/tagged/vinyl"><i class="fas fa-record-vinyl"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/beer"><i class="fas fa-beer"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/motogp"><i class="fas fa-flag-checkered"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/camping"><i class="fas fa-campground"></i> <i class="fas fa-hiking"></i></a>
-
-
--->
-
-
 ## Languages <i class="fas fa-language"></i>
 
-<br>**Native:** English 
-<br>**Native:**: French 
+<br>**Fluent:** English 
+<br>**Fluent:**: French 
 
 
 ## Personal <i class="fas fa-info-circle"></i>
@@ -468,22 +402,6 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 ## References <i class="fas fa-user-friends"></i>
 
 **Available on request only ...**
-
-
-
-
-<!--
-
-## Source <i class="fab fa-github"></i>
-`Clone away, help yourself..`
-
-<a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a>   <br> <br> <br>  ![Badge](https://img.shields.io/github/last-commit/davidclarke-au/markdown-cv?style=for-the-badge) ![License](https://img.shields.io/github/license/davidclarke-au/markdown-cv?style=for-the-badge)   ![Badge]( https://img.shields.io/keybase/pgp/davidclarke_au?style=for-the-badge) <br> <br>
-
-
-
-<i class="fas fa-info-circle"></i>
-
--->
 
 
 
