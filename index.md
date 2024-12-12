@@ -230,7 +230,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 This course is the essential for any provincial regulatory requirement for the baseline securities licensing as mutual funds sales. 
 
-**What skills will you develop?**
+**What skills will I develop?**
 <br>Understand the Canadian financial services landscape
 Gain knowledge about various financial instruments such as equities, managed products, structured products, derivatives.
 Accurately assess company, industry and market performance.
@@ -246,7 +246,7 @@ Attain a deeper knowledge of industry standards and codes of ethics.
 <br>We are evolving in a complex financial landscape, which professionals must stay knowledgeable and compliant with the changing rules and regulations as laid out by the provincial securities administrators and the Canadian Investment Regulatory Organization (CIRO). 
 This course helps demystify the regulatory environment, providing you with a clear and current understanding of the rules, regulations, practices and ethics that will guide you through your career as an investment advisor or representative.
 
-**What skills will you develop?**
+**What skills will I develop?**
 <br>Compliance with regulatory requirements including CIRO proficiency requirements.
 Demonstrated commitment to ethical practice and decision making.
 A keen understanding of standards of conduct.
