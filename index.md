@@ -221,7 +221,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 `In-progress`
 
-`Scheduled 2025-04`
+<br>`Scheduled 2025-04`
 
 <br>[Canadian Securities Course]( https://www.csi.ca/en/learning/courses/csc ){:target="_blank"} 
 
