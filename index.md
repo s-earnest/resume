@@ -18,7 +18,7 @@ title: Ernest Salvat
 -->
 
 <br>
-Customer Support and customer analytics expert
+Customer Services Support / Customer Analytics Specialist / Internet Explorer
 <br>
 <br>
 I want to work, for the best, with the best and help them be the best...
@@ -97,8 +97,8 @@ I honestly think you should get a good picture of who I am, what I like to do an
 ## Key Skills <i class="fas fa-briefcase"></i>
 
 <br>— I delivered exceptional service by promptly addressing customer inquiries and resolving issues, resulting in a 95% customer satisfaction rating. (B2B) 
-<br>—I developed and maintained comprehensive knowledge of company products and services to provide accurate and helpful information to customers. (B2C & B2B)
-<br>—I conducted in-depth analysis of customer behavior data to segment audiences and personalize communication strategies and client satisfaction. (B2C)
+<br>— I developed and maintained comprehensive knowledge of company products and services to provide accurate and helpful information to customers. (B2C & B2B)
+<br>— I conducted in-depth analysis of customer behavior data to segment audiences and personalize communication strategies and client satisfaction. (B2C)
 <br>— I am currently applying statistical methods to measure the impact of customer success initiatives, demonstrating a clear correlation between increased support interactions and improved client retention rates.
 <br>— I advocated for customer needs within the organization, ensuring that their feedback and requirements were communicated effectively to influence product and service enhancements. (B2B)
 
@@ -116,7 +116,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 ### [ Aviso Wealth ]( https://www.aviso.ca/en/ ){:target="_blank"} 
 **Bilingual Client Officer**
 
-<br>-Provided assistance for product and administrative information to Credit Union advisors
+<br>—Provided assistance for product and administrative information to Credit Union advisors
 <br>—Investigate account-related problems using a variety of systems and take the appropriate action to correct such issues
 <br>—Communicate and coordinate with internal departments to ensure accurate information
 <br>—Good knowledge in the financial services industry
@@ -125,7 +125,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 `2018-10 - 2021-08`
 
-### [ Sterling Background Check Canada Inc.]( https://www.sterlingbackcheck.ca/backcheck-canada/?utm_source=redirects&utm_medium=backcheck.net&utm_campaign=301_Redirects ){:target="_blank"} 
+### [ Sterling Background Check Inc.]( https://www.sterlingbackcheck.ca/backcheck-canada/?utm_source=redirects&utm_medium=backcheck.net&utm_campaign=301_Redirects ){:target="_blank"} 
 **Bilingual Client Services**
 
 <br>—Responded to incoming calls from clients and candidates from 8 different telephone queues in English and French.
@@ -219,61 +219,64 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 ## Training <i class="fas fa-book-reader"></i>
 
-`Ongoing`
+`In-progress`
 
-My **preferred way of learning** is on the job, with smart, driven and passionate people!
+<br>[Canadian Securities Course]( https://www.csi.ca/en/learning/courses/csc ){:target="_blank"} 
 
-<br>
+**About**
+<br>The Canadian Securities Course (CSC®) is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
 
-`2022`
+This course will help learners fulfill CIRO and provincial regulatory requirements for baseline securities licensing as well as mutual funds sales, alternative mutual funds products, managed futures funds, exempt securities and labour-sponsored investment funds.
 
-**CCFA - [CrowdStrike Certified Falcon Administrator]( https://calendly.com/s-earnest/15min ){:target="_blank"}** - *Canadian Securities*
+Take the first step towards attaining your investment representative or registered representative license.
 
-CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform based on the risk profile of your business, including:
+**What skills will you develop?**
+<br>Understand the Canadian financial services landscape
+Gain knowledge about various financial instruments such as equities, managed products, structured products, derivatives and more
+Accurately assess company, industry and market performance
+Attain a deeper knowledge of industry standards and codes of ethics
+Learn the skills, knowledge and tools to serve your clients better
+Meet proficiency requirements to deal in Alternative Mutual Funds
 
-- Effective user management
-- Deploying and managing the Falcon sensor
-- Configuring deployment and prevention policies based on business risk
-- Configuring allowlists, blocklists, and file-path exclusions
-- Conducting administrative reporting
 
 
+
+
+<br>[Conduct and Practices Handbook Course]( https://www.csi.ca/en/learning/courses/cph ){:target="_blank"} 
+
+**About**
+<br>In a complex and evolving financial landscape, professionals must stay knowledgeable and compliant with the changing rules and regulations as laid out by the provincial securities administrators and the Canadian Investment Regulatory Organization (CIRO). The Conduct and Practices Handbook Course (CPH®) helps demystify the regulatory environment, providing you with a clear and current understanding of the rules, regulations, practices and ethics that will guide you through your career as an investment advisor or representative.
+
+**What skills will you develop?**
+<br>Compliance with regulatory requirements including CIRO proficiency requirements
+Demonstrated commitment to ethical practice and decision making
+A keen understanding of standards of conduct
+Deeper knowledge of securities rules and legislation
+
+
+
+
+
+
+<!--
 
 ## Hands-on Projects examples  <i class="fas fa-book-reader"></i>
 
-`Ongoing`
+`Ongoing projects`
 
-My **preferred way of learning** is on the job, with smart, driven and passionate people!
+Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
 
-<br>
+<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
+<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
+<br>* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
 
-`2022`
-
-**CCFA - CrowdStrike Certified Falcon Administrator** - *CrowdStrike University*
-
-CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform based on the risk profile of your business, including:
-
-- Effective user management
-- Deploying and managing the Falcon sensor
-- Configuring deployment and prevention policies based on business risk
-- Configuring allowlists, blocklists, and file-path exclusions
-- Conducting administrative reporting
-
-
-
-
-
-* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
-* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
-* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
-* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-
-
+-->
 
 
 ## Extra Curriculum Education
@@ -298,24 +301,28 @@ CrowdStrike Certified Falcon Administrators effectively manage the Falcon platfo
 
 
 ## Accreditation & Certifications
+
 `2024-03`
 <br>[L1-AP]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
-<br>Data Literacy with KNIME Analytics Platform: Basics
+<br>**Data Literacy with KNIME Analytics Platform: Basics**
   <br>- All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
 `2024-03`
 <br>[L2-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
-<br>Data Analytics with KNIME Analytics Platform: Advanced
+<br>**Data Analytics with KNIME Analytics Platform: Advanced**
 <br>- All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies, 
 
+<!-- 
 `2024-03`
 <br>[L3-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
 <br>Productionizing Data Apps
   >All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies.
+-->
+
 
 `2024-04`
 <br>[L4-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
-<br>Data Analytics and Visualization: Specialization
+<br>**Data Analytics and Visualization: Specialization**
 <br>-All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
 
@@ -336,7 +343,7 @@ CrowdStrike Certified Falcon Administrators effectively manage the Falcon platfo
   - [ Tableau Desktop ]( https://www.tableau.com/products/desktop ){:target="_blank"}, (Data Visualization)
   - [ JupyterLab Notebook ]( https://jupyterlab.readthedocs.io/en/stable/index.html ){:target="_blank"}, Python (libraries: Pandas, NumPy, Matplotlib, Seaborn)
 
-### Python Libraries
+## Python Libraries
   - [Pandas](https://numpy.org/){:target="_blank"}  = Libraries for data analysis and manipulation tool, built on top of the Python programming language
   - [NumPy](https://numpy.org/){:target="_blank"} = This a package for scientific computing with Python
   - [Matplotlib](https://matplotlib.org/){:target="_blank"} = This is library for creating static, animated, and interactive visualizations in Python
