@@ -340,10 +340,10 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ## Statistical Software Knowledge
 
   - Microsoft Excel, 
-  - [ SPSS Statistics ]( https://www.ibm.com/products/spss-statistics ){:target="_blank"} Statistical analysis
-  - [ KNIME Analytics ]( https://www.knime.com/knime-analytics-platform ){:target="_blank"} (Workflow and database connectors)
-  - [ Tableau Desktop ]( https://www.tableau.com/products/desktop ){:target="_blank"} (Data Visualization)
-  - [ JupyterLab Notebook ]( https://jupyterlab.readthedocs.io/en/stable/index.html ){:target="_blank"} Python (libraries: Pandas, NumPy, Matplotlib, Seaborn)
+  - [ SPSS Statistics ]( https://www.ibm.com/products/spss-statistics ){:target="_blank"} + Statistical analysis
+  - [ KNIME Analytics ]( https://www.knime.com/knime-analytics-platform ){:target="_blank"} = (Workflow and database connectors)
+  - [ Tableau Desktop ]( https://www.tableau.com/products/desktop ){:target="_blank"} = (Data Visualization)
+  - [ JupyterLab Notebook ]( https://jupyterlab.readthedocs.io/en/stable/index.html ){:target="_blank"} = Python (libraries: Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Python Libraries
   - [Pandas](https://numpy.org/){:target="_blank"}  = Libraries for data analysis and manipulation tool, built on top of the Python programming language
