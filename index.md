@@ -1,22 +1,49 @@
 ---
 layout: cv
-title: David Clarke
+title: Ernest Salvat
 ---
-<!--- # <i class="far fa-id-badge"></i> David Clarke --->
-# ![David Clarke](https://david-clarke.id.au/images/logo.png)
+<!--- # <i class="far fa-id-badge"></i> Ernest Salvat --->
+# [Ernest Salvat]
+
+<!-- 
+# ![Ernest Salvat]( teamc.jpg width="200" )
+-->
+
 <br>
-Cyber Security Professional / People Leader / Cloud Security Advocate / Internet Explorer
+Customer Support and customer analytics expert
 <br>
 <br>
 I want to work, for the best, with the best and help them be the best...
 <br>
 <br>
-<i class="fas fa-tram"></i>  **Melbourne**<br/>
-<i class="fas fa-globe-asia"></i>  Australia<br/>
-<i class="fas fa-laptop-house"></i>  **Working 100% remotely**<br/>
+<i class="fas fa-tram"></i>  **Vancouver**<br/>
+<i class="fas fa-globe-asia"></i>  Canada <br/>
+<i class="fas fa-laptop-house"></i>  **Working 99% remotely since 2019**<br/>
 
-<i class="fas fa-at"></i>  <a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> <br> 
+<i class="fas fa-at"></i>  <a href="mailto:s.ernest@gmx.us"> s.ernest at gmx dot us</a> <br> 
 <i class="fas fa-mobile-alt"></i>  +61 Please reach out to me privately (email/keybase) if you require my mobile #
+
+
+
+
+
+
+<!--
+
+<div id="webaddress">
+  
+  
+  <a href="https://david-clarke.id.au"><i class="fas fa-house-user"></i> david-clarke.id.au</a>     <br>
+  <a href="https://keybase.io/davidclarke_au"><i class="fab fa-keybase"></i> KeyBase - davidclarke_au</a>     <br>
+  <a href="https://keybase.io/davidclarke_au/pgp_keys.asc"><i class="fas fa-key"></i> PGP - 1234 E339 C30C C855 </a>     <br>
+  <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Canary 2</a>  
+
+
+</div>
+
+
+
+
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-house-user"></i> david-clarke.id.au</a>     <br>
@@ -34,11 +61,21 @@ I want to work, for the best, with the best and help them be the best...
   <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Canary 2</a>  
 </div>
 
-<br>
-**Did a pesky recruiter send you this as a PDF? Ugh, please use** <a href="https://cv.david-clarke.id.au"><i class="fas fa-passport"></i> **this**</a>
-<br>
+-->
+
+
+
 
 ## A Little Bit About Me <i class="fas fa-route"></i>
+
+
+
+
+
+
+
+<!-- 
+
 
 I **loathe** writing CV's, but I understand why it's required, hence why it's now in a <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fas fa-code-branch"></i> Code Repository</a>. Simple to update, modern, backed up and demonstrates many technical skills right off the bat.
 
@@ -99,7 +136,17 @@ And _more broadly..._
 
 **Music, Motorsport, Camping, Hiking...**
 
+
+--> 
+
+
+
 ## Experience <i class="fas fa-briefcase"></i>
+
+
+
+<!-- 
+
 
 `2022 - Current`
 
@@ -275,8 +322,105 @@ This self-paced course is designed to introduce you to fundamental cloud computi
 
 This certification verifies that support center professionals possess the knowledge of the ITIL® framework necessary to support an ITIL initiative. ITIL Foundation certified individuals have demonstrated their awareness of the ITIL processes and terms and satisfied the prerequisite requirement for pursuing additional ITIL certifications.
 
+-->
+
 
 ## Education <i class="fas fa-university"></i>
+
+
+`2005-2006`
+**(1) Customised Course**, *EXCOM Education*, Melbourne, VIC, AUS.
+<br>
+*Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.*
+<br>
+
+
+
+
+
+
+
+`2005-2006`
+**(2) Customised Course**, *EXCOM Education*, Melbourne, VIC, AUS.
+<br>
+*Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.*
+<br>
+
+
+
+
+
+
+
+## In-progress training and informal education
+
+<div id="webaddress">
+  
+
+
+<br><a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a>  
+<br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a>  
+<br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a>  
+<br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a> 
+<br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a> 
+<br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a> 
+<br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a>  
+
+<i class="fas fa-bullseye"></i>  EXCOM Education*, Melbourne, VIC, AUS. <a href=" here ">   (4) Customised Course </a>
+
+</div>
+
+
+
+
+<!-- 
+
+
+<i class="fas fa-bullseye"></i>
+
+-->
+
+
+
+<div id="webaddress">
+`2005-2006`
+<i class="fas fa-bullseye"></i>  EXCOM Education*, Melbourne, VIC, AUS. <a href=" here ">   (4) Customised Course </a>  
+</div>
+
+<br>
+Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.
+
+
+
+Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.
+<br>
+
+
+
+
+## Conference activity <i class="fas fa-chalkboard-teacher"></i>
+
+`2024`
+
+### CrowdStrike CrowdTour 2024
+
+**Speaker**, *Falcon Complete MDR response to SCATTERED SPIDER.*<br/>
+<br>
+I spoke @ both the Sydney and Melbourne CrowdTour events on how Falcon Complete is protecting our customers from Scattered Spider. The talk focused on a 'behind the scenes' look at how we work with our platfrom and friends in Counter Adversary Operations to proactively and reactively thwart this agressive Threat Actor. 
+
+I also provided guidance, both Falcon specific and genrally to assist customers/prospects etc to strenghten their Security posture against the most common TTPs that we see this TA abuse.
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
 
 `2005-2006`
 **Customised Course**, *EXCOM Education*, Melbourne, VIC, AUS.
@@ -296,6 +440,10 @@ This certification verifies that support center professionals possess the knowle
 
 
 <!--- ## Awards and honors <i class="fas fa-award"></i> --->
+
+
+
+<!-- 
 
 ## Conference activity <i class="fas fa-chalkboard-teacher"></i>
 
@@ -322,31 +470,71 @@ The structure of my talk was to talk about the incident, who we are, the legisla
 The goal of the talk was to share with the wider Security community what happened, share knowledge and leanings, and give attendees easy to implement suggestions for potential uplift at their own companies.
 
 
+-->
+
+
+
+
+
 ## Interests <i class="fas fa-campground"></i>
 
+
+<!-- 
+
 Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au">   <i class="fab fa-tumblr"></i></a> then we can talk <a href="https://blog.david-clarke.id.au/tagged/vinyl"><i class="fas fa-record-vinyl"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/beer"><i class="fas fa-beer"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/motogp"><i class="fas fa-flag-checkered"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/camping"><i class="fas fa-campground"></i> <i class="fas fa-hiking"></i></a>
+
+
+-->
+
 
 ## Languages <i class="fas fa-language"></i>
 
 **Native:** English
+**Native:**: French
 
-**Basic:** None, yet, hopefully Italian soon :)
 
 ## Personal <i class="fas fa-info-circle"></i>
 
-**Birth date:** I'm likely applying for a Security role, so adding this should fail me instantly. Plus you don't need this information at this stage of the recruitment process anyway.
+**Citizenship:** Canadian & French Citizen
 
-**Citizenship:** Australian Citizen
-
-**Clearances:** None currently, eligible and willing to obtain
-
-**Family:** Married, Dad to two
+**Clearances:** n/a
 
 ## References <i class="fas fa-user-friends"></i>
 
-**Available on request only..**
+**Available on request only ...**
+
+
+
+
+<!--
 
 ## Source <i class="fab fa-github"></i>
 `Clone away, help yourself..`
 
 <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a>   <br> <br> <br>  ![Badge](https://img.shields.io/github/last-commit/davidclarke-au/markdown-cv?style=for-the-badge) ![License](https://img.shields.io/github/license/davidclarke-au/markdown-cv?style=for-the-badge)   ![Badge]( https://img.shields.io/keybase/pgp/davidclarke_au?style=for-the-badge) <br> <br>
+
+
+
+<i class="fas fa-info-circle"></i>
+
+-->
+
+
+
+
+## Contact <i class="fas fa-phone"></i>
+
+Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
+
+
+
+
+
+
+
+
+
+
+
+
+
