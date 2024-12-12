@@ -3,10 +3,17 @@ layout: cv
 title: Ernest Salvat
 ---
 <!--- # <i class="far fa-id-badge"></i> Ernest Salvat --->
-# [Ernest Salvat]
+
+
+# Ernest Salvat
+
+<img src=" teamc.jpg " alt="image" width="30%" height="auto">
 
 <!-- 
-# ![Ernest Salvat]( teamc.jpg width="200" )
+# ![Ernest Salvat]( teamc.jpg  width="100" height="auto" )
+
+# [Ernest Salvat]
+
 -->
 
 <br>
@@ -21,8 +28,6 @@ I want to work, for the best, with the best and help them be the best...
 <i class="fas fa-laptop-house"></i>  **Working 99% remotely since 2019**<br/>
 
 <i class="fas fa-at"></i>  <a href="mailto:s.ernest@gmx.us"> s.ernest at gmx dot us</a> <br> 
-<i class="fas fa-mobile-alt"></i>  +61 Please reach out to me privately (email/keybase) if you require my mobile #
-
 
 
 
@@ -68,6 +73,56 @@ I want to work, for the best, with the best and help them be the best...
 
 ## A Little Bit About Me <i class="fas fa-route"></i>
 
+
+
+- 👋 Hello World, I’m @s-earnest
+- 👀 I’m interested in ... anything related with data & Machine Learning.
+- 🌱 I’m currently an autodictact learning person ... who is looking to get a deep understanding in Data-Viz.
+- 💞️ You can reach me mainly by email.
+- 📫 I love learning new things, and travel. 
+- Thank you for coming to my Github page.
+
+
+
+## What drive me in life? 
+
+What's really important to me? How do I want to be remembered? What gives me energy?  are the questions that I pose myself every day, and the short answer is helping people in a digital world where information and technology has a huge impact in human on day-to-day activity.
+
+One of things I've learned overtime is that we need have financial incentives to drive performance and that financials incentives actually deteriorate performance.  We need to rely on create the right environment where people want to give their best. This goes from training environment to technology tools. So to top of our customer value proposition, the definition of the employees value proposition. We need to think that's going to be the big differentiator for companies.
+
+I have a deep-seated passion for data and marketing, fields that are dynamic and rich with opportunities for innovation and insight. The journey in these areas is fueled by an unwavering commitment to not only expand me personal knowledge but also to master these domains to such an extent that I can distill complex concepts into simpler, more understandable forms.
+
+I have expertise spans across various facets of data analysis and marketing strategies. This includes harnessing the power of big data, employing advanced analytical techniques, and understanding market trends to drive decision-making and create value. I leverage statistical tools and marketing metrics to not only predict consumer behavior but also to craft compelling narratives that resonate with diverse audiences.
+
+What sets me apart is the dedication to continual learning. I constantly seek out new knowledge, staying abreast of the latest trends and technologies in both fields. This continuous expansion of the skill set is not solely for personal growth; it's also about empowering others. By breaking down sophisticated topics into easier-to-grasp concepts, I help peers and other people alike to light up with "aha" moments, fostering a learning environment that is both informative and inspiring.
+
+
+
+## Online
+I promise not to junk your emails or feedback as I rarely post on social media these days. Feel free to keep in touch via email or on any of the online service below to connect. 
+
+
+## Offline
+
+When I am not in front of a computer, I spend time riding Onewheel around Vancouver, or going out for dinner or to watch a good movie at the theatre. As you can see, simple things in life make me happy.
+
+
+
+
+
+This CV is ordered deliberately. *In my opinion, in order of importance.* 
+
+Starting with me, an informal and honest introduction. <i class="far fa-grin-tongue-wink"></i>
+
+Followed by what I work on day to day and am responsible for, my skillset and what I'm passionate about. 
+
+Followed by my work history. 
+
+Followed by my training and education.
+
+What I love doing now is **TALKING** to people.... So please feel free to get in contact with me and setup a chat.
+
+Anyway, all the boring stuff below ...
 
 
 
@@ -142,6 +197,110 @@ And _more broadly..._
 
 
 ## Experience <i class="fas fa-briefcase"></i>
+
+
+
+`2022 - Current`
+
+### [CrowdStrike]( https://www.google.com )
+
+**(1) Manager, Falcon Complete**
+
+I am lucky enough to lead a team of the best Analysts on the globe that stop the most sophisticated hackers and adversaries targeting our many customers.
+<br>
+
+<br>
+The Falcon Complete team is composed of seasoned security professionals who have experience in incident handling, incident response, forensics, SOC analysis and IT administration. The team has a global footprint, allowing true 24/7 “follow the sun” coverage.
+<br>
+
+
+
+`2022 - Current`
+
+### [CrowdStrike]( https://calendly.com/s-earnest/15min ){:target="_blank"}
+
+**(2) Manager, Falcon Complete**
+
+I am lucky enough to lead a team of the best Analysts on the globe that stop the most sophisticated hackers and adversaries targeting our many customers.
+<br>
+
+<br>
+The Falcon Complete team is composed of seasoned security professionals who have experience in incident handling, incident response, forensics, SOC analysis and IT administration. The team has a global footprint, allowing true 24/7 “follow the sun” coverage.
+<br>
+
+
+`2022 - Current`
+
+### [CrowdStrike]( https://calendly.com/s-earnest/15min ){:target="_blank"}
+
+**(3) Manager, Falcon Complete**
+
+I am lucky enough to lead a team of the best Analysts on the globe that stop the most sophisticated hackers and adversaries targeting our many customers.
+<br>
+
+<br>
+The Falcon Complete team is composed of seasoned security professionals who have experience in incident handling, incident response, forensics, SOC analysis and IT administration. The team has a global footprint, allowing true 24/7 “follow the sun” coverage.
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+## Training <i class="fas fa-book-reader"></i>
+
+`Ongoing`
+
+My **preferred way of learning** is on the job, with smart, driven and passionate people!
+
+<br>
+
+`2022`
+
+**CCFA - [CrowdStrike Certified Falcon Administrator]( https://calendly.com/s-earnest/15min ){:target="_blank"}** - *Canadian Securities*
+
+CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform based on the risk profile of your business, including:
+
+- Effective user management
+- Deploying and managing the Falcon sensor
+- Configuring deployment and prevention policies based on business risk
+- Configuring allowlists, blocklists, and file-path exclusions
+- Conducting administrative reporting
+
+
+
+## Hands-on data analysis <i class="fas fa-book-reader"></i>
+
+`Ongoing`
+
+My **preferred way of learning** is on the job, with smart, driven and passionate people!
+
+<br>
+
+`2022`
+
+**CCFA - CrowdStrike Certified Falcon Administrator** - *CrowdStrike University*
+
+CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform based on the risk profile of your business, including:
+
+- Effective user management
+- Deploying and managing the Falcon sensor
+- Configuring deployment and prevention policies based on business risk
+- Configuring allowlists, blocklists, and file-path exclusions
+- Conducting administrative reporting
+
+
+
+
+
+
+
 
 
 
@@ -284,6 +443,8 @@ A piece on the very frustrating shortcomings and insecurities of GSuite SPF and 
 <br>
 Eh, not tech related, but a passion piece.
 
+
+
 ## Training <i class="fas fa-book-reader"></i>
 
 `Ongoing`
@@ -352,11 +513,19 @@ This certification verifies that support center professionals possess the knowle
 
 
 
-## In-progress training and informal education
+## Informal education
 
-<div id="webaddress">
+
   
 
+
+
+
+<!-- 
+
+
+<div id="webaddress">
+<i class="fas fa-bullseye"></i>
 
 <br><a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a>  
 <br> <a href="  https://david-clarke.id.au/ct2.html  "><i class="fas fa-bullseye"></i>  ITEM   </a>  
@@ -372,25 +541,18 @@ This certification verifies that support center professionals possess the knowle
 
 
 
-
-<!-- 
-
-
-<i class="fas fa-bullseye"></i>
-
 -->
 
 
+`2005-2006`
 
 <div id="webaddress">
-`2005-2006`
-<i class="fas fa-bullseye"></i>  EXCOM Education*, Melbourne, VIC, AUS. <a href=" here ">   (4) Customised Course </a>  
+
+<i class="fas fa-bullseye"></i>  (4) Customised Course   <a href=" here ">  EXCOM Education*, Melbourne, VIC, AUS.  </a>  
 </div>
 
 <br>
 Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.
-
-
 
 Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.
 <br>
@@ -489,8 +651,8 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 ## Languages <i class="fas fa-language"></i>
 
-**Native:** English
-**Native:**: French
+<br>**Native:** English 
+<br>**Native:**: French 
 
 
 ## Personal <i class="fas fa-info-circle"></i>
@@ -533,8 +695,10 @@ Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you 
 
 
 
+<br>
 
 
 
+<br>
 
 
