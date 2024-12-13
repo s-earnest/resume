@@ -40,11 +40,11 @@ I want to work, for the best, with the best and help them be the best...
 
 
 - 👋 Hello World, I’m @s-earnest
-- 👀 I’m interested in ... anything related with data & Machine Learning.
-- 🌱 I’m currently an autodictact learning person ... who is looking to get a deep understanding in Data-Viz.
+- 👀 I’m interested in ... anything related with data analysis & Machine Learning.
+- 🌱 I’m an autodictact learning person ... who is looking to get a deep understanding in data analysis visualization.
 - 💞️ You can reach me mainly by email.
 - 📫 I love learning new things, and travel. 
-- Thank you for coming to my Github page.
+- Thank you for stopping by. 
 
 
 
@@ -71,10 +71,7 @@ I promise not to junk your emails or feedback as I rarely post on social media t
 When I am not in front of a computer, I spend time riding Onewheel around Vancouver, or going out for dinner or to watch a good movie at the theatre. As you can see, simple things in life make me happy.
 
 
-
-
-
-This CV is ordered deliberately. *In my opinion, in order of importance.* 
+This CV is ordered deliberately. *In my opinion, **in order of importance**.* 
 
 Starting with me, an informal and honest introduction. <i class="far fa-grin-tongue-wink"></i>
 
@@ -84,7 +81,7 @@ Followed by my work history.
 
 Followed by my training and education.
 
-What I love doing now is **TALKING** to people.... So please feel free to get in contact with me and setup a chat.
+What I love doing now is **TALKING** to people.... So please feel free to get in touch with me and setup a chat for any questions.
 
 Anyway, all the boring stuff below ...
 
@@ -92,15 +89,112 @@ Anyway, all the boring stuff below ...
 I honestly think you should get a good picture of who I am, what I like to do and what might be a good future fit for your organizaton from the links above. 
 
 
+<!--
+(1) informal and honest introduction
+(2) what i do and responsabilities for the skiilset and what I'm passionate about
+(2) skiilset / passions / areas of interest 
+(3) work history
+(4) training and education
+(5) 
 
 
-## Key Skills <i class="fas fa-briefcase"></i>
+-->
+
+## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
+
+<!-- ## Key Skills <i class="fas fa-briefcase"></i>  -->
 
 <br>— I delivered exceptional service by promptly addressing customer inquiries and resolving issues, resulting in a 95% customer satisfaction rating. (B2B) 
 <br>— I developed and maintained comprehensive knowledge of company products and services to provide accurate and helpful information to customers. (B2C & B2B)
 <br>— I conducted in-depth analysis of customer behavior data to segment audiences and personalize communication strategies and client satisfaction. (B2C)
 <br>— I am currently applying statistical methods to measure the impact of customer success initiatives, demonstrating a clear correlation between increased support interactions and improved client retention rates.
 <br>— I advocated for customer needs within the organization, ensuring that their feedback and requirements were communicated effectively to influence product and service enhancements. (B2B)
+
+
+
+
+
+
+
+## Hands-on Projects  <i class="fas fa-book-reader"></i>
+
+`Ongoing projects`
+
+Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
+
+<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
+<br>**What I've learnt ?**
+<br>This course is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
+<br>**Key concepts**
+Machine learning, forecasting
+
+
+<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Risk Modeling
+<br>**What I've learnt ?**
+<br>This course is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
+<br>**Key concepts**
+Machine learning, forecasting
+
+
+
+
+## Link portfolio
+
+* [ Online Portfolio ]( https://s-earnest.github.io ){:target="_blank"}
+
+
+<!-- 
+* [ Tableau Public ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"}
+-->
+
+
+
+
+<!--
+
+## Hands-on Projects examples  <i class="fas fa-book-reader"></i>
+
+`Ongoing projects`
+
+Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
+
+<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
+<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
+<br>* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+
+
+
+`Completed`
+
+Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
+
+<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
+
+<br> What I've learnt?
+
+
+
+<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
+<br>* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+
+
+
+
+
+
+-->
 
 
 
@@ -221,7 +315,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 `In-progress`
 
-<br>`Scheduled 2025-04`
+<br>`Scheduled 2025-03`
 
 <br>[Canadian Securities Course]( https://www.csi.ca/en/learning/courses/csc ){:target="_blank"} 
 
@@ -238,7 +332,7 @@ Attain a deeper knowledge of industry standards and codes of ethics.
 
 
 
-`Scheduled 2025-04`
+`Scheduled 2025-05`
 
 <br>[Conduct and Practices Handbook Course]( https://www.csi.ca/en/learning/courses/cph ){:target="_blank"} 
 
@@ -256,52 +350,6 @@ Deeper knowledge of securities rules and legislation.
 
 
 
-
-<!--
-
-## Hands-on Projects examples  <i class="fas fa-book-reader"></i>
-
-`Ongoing projects`
-
-Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
-
-<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
-<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
-<br>* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-
-
-
-`Completed`
-
-Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
-
-<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
-
-<br> What I've learnt?
-
-
-
-<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
-<br>* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
-
-
-
-
-
-
--->
 
 
 ## Extra Curriculum Education
@@ -389,15 +437,6 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 
 
-
-
-## Links portfolio
-
-* [ Online Portfolio ]( https://s-earnest.github.io ){:target="_blank"}
-
-<!-- 
-* [ Tableau Public ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"}
--->
 
 
 ## Statistical Software Knowledge
