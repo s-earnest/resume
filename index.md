@@ -275,6 +275,32 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
 <br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
 
+
+
+`Completed`
+
+Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
+
+<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
+
+<br> What I've learnt?
+
+
+
+<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Machine Learning
+<br>* [ Bike Sharing System ]( https://s-earnest.github.io/posts/Bike-Sharing-System-EDA/ ){:target="_blank"} - Time Series
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+<br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+
+
+
+
+
+
 -->
 
 
@@ -285,14 +311,11 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 <br>- [Machine Learning and Data Annotation](https://www.linkedin.com/learning/certificates/59ce44543b638f1f64922baef684cc640b0778d704891a91a248ead5af7bef34){:target="_blank"} 
 
-
 <br>- [Codeless Machine Learning with KNIME]( https://www.linkedin.com/learning/certificates/5f7aeb8191650875aaf69c8a297958569ce42aa2db544db99f75791d8116cc11 ){:target="_blank"} 
-
 
 <br>- [Machine Learning Foundations]( https://www.linkedin.com/learning/certificates/722b7040b6df696571b59eb55594feba3f0fd9e9e6db66d6fbcd158bd87b5634 ){:target="_blank"} 
 
 <br>- [Sig Sigma Black Belt]( https://www.linkedin.com/learning/certificates/c3f3c236b7f781084a7117dc46a29d6b430a64ffc8a236188f3004c54d952f41  ){:target="_blank"}
-
 
 <br>- [Machine Learning & Data Annotation](https://www.linkedin.com/learning/certificates/59ce44543b638f1f64922baef684cc640b0778d704891a91a248ead5af7bef34){:target="_blank"} 
 
@@ -302,27 +325,67 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ## Accreditation & Certifications
 
 `2024-03`
-<br>[L1-AP]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
+<br>[L1-AP]( https://www.knime.com/events/data-literacy-basics-1224 ){:target="_blank"} 
 <br>**Data Literacy with KNIME Analytics Platform: Basics**
-  <br>- All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
+<br>This course is designed for those who are just starting their data analytics journey with KNIME Analytics Platform Version 5. It starts with a detailed introduction of KNIME Analytics Platform - from downloading it through to navigating the user interface. 
+
+The course focuses on processing data from different sources and presenting insights in various forms. The course dives into data cleaning and aggregation, using methods such as advanced filtering, concatenating, joining, pivoting, and grouping. In addition, the course also covers topics such as data visualization, dashboards, and reporting to showcase findings from your data. With all of this, you will be able to get your data into the right shape to generate insights quickly.
+
+This is an instructor-led course consisting of five, 75 minutes online sessions run by our data scientists. Each session has an exercise for you to complete at home and together, we will go through the solution at the start of the following session. The course concludes with a 15-30 minute wrap up session.
+
+<br>- Introduction to KNIME Analytics Platform & Data Access
+<br>- Data Cleaning, Data Transformation, and Workflow Documentation
+<br>- Data Merging, Data Aggregation, and Data Export
+<br>- Data Visualization and Reporting
+
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+
 
 `2024-03`
-<br>[L2-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
+<br>[L2-DA]( https://www.knime.com/events/l2-da-data-analytics-knime-analytics-platform-advanced-online-0125 ){:target="_blank"} 
 <br>**Data Analytics with KNIME Analytics Platform: Advanced**
-<br>- All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies, 
+<br>This course builds on the L1-AP course by introducing advanced concepts for building and automating workflows with KNIME Analytics Platform Version 5. 
+
+This course covers topics for controlling node settings and automating workflow execution. You will learn concepts such as flow variables, loops, switches, and how to catch errors. In addition, you will learn how to handle date and time data, how to create advanced dashboards, and how to process data within a database. 
+
+Additionally, this course introduces additional tools for reporting. You will learn how to style and update Excel spreadsheets using the Continental Nodes. Moreover, you will learn how to generate reports using the KNIME Reporting extension.
+
+<br>- Flow Variables & Components    
+<br>- Workflow Control and Invocation
+<br>- Date&Time, Databases, REST Services, Python & R Integration
+<br>- Excel Styling, KNIME Reporting Extension
+
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+
 
 <!-- 
 `2024-03`
 <br>[L3-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
 <br>Productionizing Data Apps
   >All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies.
+
+
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+
+
 -->
 
 
 `2024-04`
-<br>[L4-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
-<br>**Data Analytics and Visualization: Specialization**
-<br>-All content provided is for informational purposes only and shown case studies examples for open source data resources. The articles and posts on this website are my own way on seen opportunities and problem-solving but don’t necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
+<br>[L4-ML]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
+<br>**L4-ML Introduction to Machine Learning Algorithms**
+<br>The course focuses on processing data from different sources and presenting insights in various forms. The course dives into data cleaning and aggregation, using methods such as advanced filtering, concatenating, joining, pivoting, and grouping. In addition, the course also covers topics such as data visualization, dashboards, and reporting to showcase findings from your data. With all of this, you will be able to get your data into the right shape to generate insights quickly.
+
+<br>- Introduction & Decision Tree Algorithm
+<br>- Regression Models, Ensemble Models & Logistic Regression
+<br>- Neural Networks & Recommendations Engines
+<br>- Clustering & Data Preparation
+<br>- Recommendation Engines
+<br>- Clustering
+<br>- Data Preparation
+
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+
 
 
 
