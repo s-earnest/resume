@@ -28,7 +28,7 @@ I want to work, for the best, with the best and help them be the best...
 <i class="fas fa-globe-asia"></i>  Canada <br/>
 <i class="fas fa-laptop-house"></i>  **Working 99% remotely since 2019**<br/>
 
-<i class="fas fa-at"></i>  <a href="mailto:s.ernest@gmx.us"> s.ernest at gmx dot us</a> <br> 
+<i class="fas fa-at"></i>  <a href="mailto:s.ernest@gmx.us"> s dot ernest at gmx dot us</a> <br> 
 
 
 
@@ -118,7 +118,33 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 ## Hands-on Projects  <i class="fas fa-book-reader"></i>
 
-`Ongoing projects`
+<br>`Ongoing projects`
+
+<br> `2024-05`
+
+<br>Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
+
+<br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
+<br>**What I've learnt ?**
+<br>This course is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
+<br>**Key concepts**
+Machine learning, forecasting
+
+`2023-06`
+
+<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Risk Modeling
+<br>**What I've learnt ?**
+<br>This course is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
+<br>**Key concepts**
+Machine learning, forecasting
+
+
+
+<!--
+
+`Completed projects`
+
+`2022-05 - Current`
 
 Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
 
@@ -129,18 +155,15 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 Machine learning, forecasting
 
 
-<br>* [ Credit Card Fraud Detection ]( https://s-earnest.github.io/posts/Credit-Card-Fraud/ ){:target="_blank"} - Risk Modeling
-<br>**What I've learnt ?**
-<br>This course is the foundational financial services credential required to perform transactions in securities, mutual funds and alternative funds in many financial services positions.
-<br>**Key concepts**
-Machine learning, forecasting
+
+-->
 
 
 
 
 ## Link portfolio
 
-* [ Online Portfolio ]( https://s-earnest.github.io ){:target="_blank"}
+<br> [ Online Portfolio ]( https://s-earnest.github.io ){:target="_blank"}
 
 
 <!-- 
@@ -441,18 +464,18 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 ## Statistical Software Knowledge
 
-  - Microsoft Excel, 
-  - [ SPSS Statistics ]( https://www.ibm.com/products/spss-statistics ){:target="_blank"} = Statistical analysis
-  - [ KNIME Analytics ]( https://www.knime.com/knime-analytics-platform ){:target="_blank"} = (Workflow and database connectors)
-  - [ Tableau Desktop ]( https://www.tableau.com/products/desktop ){:target="_blank"} = (Data Visualization)
-  - [ JupyterLab ]( https://jupyterlab.readthedocs.io/en/stable/index.html ){:target="_blank"} = Python (libraries: Pandas, NumPy, Matplotlib, Seaborn)
+<br>  - Microsoft Excel, 
+<br>  - [ SPSS Statistics ]( https://www.ibm.com/products/spss-statistics ){:target="_blank"} = Statistical analysis,
+<br>  - [ KNIME Analytics ]( https://www.knime.com/knime-analytics-platform ){:target="_blank"} = (Workflow and database connectors),
+<br>  - [ Tableau Desktop ]( https://www.tableau.com/products/desktop ){:target="_blank"} = (Data Visualization),
+<br>  - [ JupyterLab ]( https://jupyterlab.readthedocs.io/en/stable/index.html ){:target="_blank"} = Python (libraries: Pandas, NumPy, Matplotlib, Seaborn)
 
 ## Python Libraries
-  - [Pandas](https://numpy.org/){:target="_blank"}  = Libraries for data analysis and manipulation tool, built on top of the Python programming language
-  - [NumPy](https://numpy.org/){:target="_blank"} = This a package for scientific computing with Python
-  - [Matplotlib](https://matplotlib.org/){:target="_blank"} = This is library for creating static, animated, and interactive visualizations in Python
-  - [Seaborn](https://seaborn.pydata.org/){:target="_blank"} = Statistical data visualization 
-  - [Plotly](https://plotly.com/python/){:target="_blank"} = This is graphing library that helps to make interactive, publication-quality graphs.
+<br>  - [Pandas]( https://pandas.pydata.org/docs/ ){:target="_blank"}  = Libraries for data analysis and manipulation tool, built on top of the Python programming language
+<br>  - [NumPy]( https://numpy.org/ ){:target="_blank"} = This a package for scientific computing with Python
+<br>  - [Matplotlib]( https://matplotlib.org/ ){:target="_blank"} = This is library for creating static, animated, and interactive visualizations in Python
+<br>  - [Seaborn]( https://seaborn.pydata.org/ ){:target="_blank"} = Statistical data visualization 
+<br>  - [Plotly]( https://plotly.com/python/ ){:target="_blank"} = This is graphing library that helps to make interactive, publication-quality graphs.
 
 
 
@@ -497,20 +520,20 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 ## Personal <i class="fas fa-info-circle"></i>
 
-**Citizenship:** Canadian & French Citizen
+<br> **Citizenship:** Canadian & French
+<br> **Clearances:** n/a
 
-**Clearances:** n/a
 
 ## References <i class="fas fa-user-friends"></i>
 
-**Available on request only ...**
+<br> **Available on request only ...**
 
 
 
 
 ## Contact <i class="fas fa-phone"></i>
 
-Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
+<br> Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
 
 
 
