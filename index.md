@@ -100,7 +100,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 -->
 
-## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
+## Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
 <!-- ## Key Skills <i class="fas fa-briefcase"></i>  -->
 
@@ -118,7 +118,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 ## Hands-on Projects  <i class="fas fa-book-reader"></i>
 
-<br>`Ongoing projects`
+`Ongoing projects`
 
 <br> `2024-05`
 
@@ -140,13 +140,19 @@ Machine learning, forecasting
 
 
 
+
+
+
+
 <!--
 
+
+<br>
+
+## Completed projects <i class="fa fa-check-square" aria-hidden="true"></i>
 `Completed projects`
 
-`2022-05 - Current`
-
-Getting the hands dirty is one **preferred way of learning**, working with smart, driven and passionate people ... 
+<br>`2022-05`
 
 <br>* [ Criminality in Vancouver ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"} - Forecasting Criminality
 <br>**What I've learnt ?**
@@ -375,20 +381,18 @@ Deeper knowledge of securities rules and legislation.
 
 
 
-## Extra Curriculum Education
+## Extra Curriculum Education <i class="fa fa-check-square" aria-hidden="true"></i>
 
 
-<br>- [Predictive Analytics Essential Training](https://www.linkedin.com/learning/certificates/8d0368b54a57ef8a51dcce6ebba91ef884c080f5024dcabd806ad82d619f3f9c){:target="_blank"} 
+<br>- [Predictive Analytics Essential Training](https://www.linkedin.com/learning/certificates/8d0368b54a57ef8a51dcce6ebba91ef884c080f5024dcabd806ad82d619f3f9c){:target="_blank"}    `2024-Jun.`
 
-<br>- [Machine Learning and Data Annotation](https://www.linkedin.com/learning/certificates/59ce44543b638f1f64922baef684cc640b0778d704891a91a248ead5af7bef34){:target="_blank"} 
+<br>- [Codeless Machine Learning with KNIME]( https://www.linkedin.com/learning/certificates/5f7aeb8191650875aaf69c8a297958569ce42aa2db544db99f75791d8116cc11 ){:target="_blank"}   `2014-Jan.` 
 
-<br>- [Codeless Machine Learning with KNIME]( https://www.linkedin.com/learning/certificates/5f7aeb8191650875aaf69c8a297958569ce42aa2db544db99f75791d8116cc11 ){:target="_blank"} 
+<br>- [Machine Learning Foundations]( https://www.linkedin.com/learning/certificates/722b7040b6df696571b59eb55594feba3f0fd9e9e6db66d6fbcd158bd87b5634 ){:target="_blank"}   `2014-Feb.`
 
-<br>- [Machine Learning Foundations]( https://www.linkedin.com/learning/certificates/722b7040b6df696571b59eb55594feba3f0fd9e9e6db66d6fbcd158bd87b5634 ){:target="_blank"} 
+<br>- [Six-Sigma Black Belt]( https://www.linkedin.com/learning/certificates/c3f3c236b7f781084a7117dc46a29d6b430a64ffc8a236188f3004c54d952f41  ){:target="_blank"}  `2014-Jan.`
 
-<br>- [Sig Sigma Black Belt]( https://www.linkedin.com/learning/certificates/c3f3c236b7f781084a7117dc46a29d6b430a64ffc8a236188f3004c54d952f41  ){:target="_blank"}
-
-<br>- [Machine Learning & Data Annotation](https://www.linkedin.com/learning/certificates/59ce44543b638f1f64922baef684cc640b0778d704891a91a248ead5af7bef34){:target="_blank"} 
+<br>- [Machine Learning & Data Annotation](https://www.linkedin.com/learning/certificates/59ce44543b638f1f64922baef684cc640b0778d704891a91a248ead5af7bef34){:target="_blank"}    `2014-Feb.`
 
 
 
@@ -482,7 +486,7 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 
 ## Post-secondary Education <i class="fas fa-university"></i>
-
+<br>
 
 `2014-2022`
 **DIPLOMA MARKETING MANAGEMENT — British Columbia Institute of Technology**, 
@@ -531,7 +535,7 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 
 
-## Contact <i class="fas fa-phone"></i>
+## Contact <i class="fas fa-envelope-open"></i>
 
 <br> Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
 
