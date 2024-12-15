@@ -116,6 +116,9 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 
 
+<!--
+
+
 ## Hands-on Projects  <i class="fas fa-book-reader"></i>
 
 `Ongoing projects`
@@ -140,7 +143,7 @@ Machine learning, forecasting
 
 
 
-
+-->
 
 
 
@@ -167,12 +170,16 @@ Machine learning, forecasting
 
 
 
+
+
+<!-- 
+
 ## Link portfolio
 
 <br> [ Online Portfolio ]( https://s-earnest.github.io ){:target="_blank"}
 
 
-<!-- 
+
 * [ Tableau Public ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"}
 -->
 
@@ -338,7 +345,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 
 
-
+<!--
 
 ## Training <i class="fas fa-book-reader"></i>
 
@@ -446,6 +453,8 @@ Additionally, this course introduces additional tools for reporting. You will le
 -->
 
 
+<!--
+
 `2024-04`
 <br>[L4-ML]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
 <br>**L4-ML Introduction to Machine Learning Algorithms**
@@ -483,6 +492,7 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 
 
+-->
 
 
 ## Post-secondary Education <i class="fas fa-university"></i>
@@ -538,10 +548,6 @@ Additionally, this course introduces additional tools for reporting. You will le
 ## Contact <i class="fas fa-envelope-open"></i>
 
 <br> Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
-
-
-
-
 
 
 
