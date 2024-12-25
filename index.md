@@ -112,7 +112,25 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 
 
+<!-- 
 
+Areas of Interest = Analyzing data
+### Web Scraping 
+  - item
+  - item
+  - item
+  
+
+### Customer Segmentation
+  - item
+  - item
+  - item
+
+
+
+
+
+-->
 
 
 
@@ -203,6 +221,17 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
 <br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
 <br>* [ Baggage Complaints ]( https://s-earnest.github.io/posts/Baggage-Complaints/ ){:target="_blank"} - Data Exploration
+
+
+=== 
+(1) Web Scraping
+  - books to scrape
+  - Real Estate Canada
+  - Real Estate Spain
+  - Jobs Research
+
+
+
 
 
 
