@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Ernest Salvat
 ---
 <!--- # <i class="far fa-id-badge"></i> Ernest Salvat --->
