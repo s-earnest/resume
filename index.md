@@ -579,6 +579,7 @@ Additionally, this course introduces additional tools for reporting. You will le
 <br> Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
 
 
+| Last update: 20250217 132208 | 
 
 
 <br>
