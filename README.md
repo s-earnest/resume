@@ -21,6 +21,6 @@ For more details see the [ project page ](https://elipapa.github.io/markdown-cv/
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
 
 
-Last Update: 20241212 145642
+Last Update: 20250217 20245 
 
 
