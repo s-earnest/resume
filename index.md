@@ -519,7 +519,7 @@ Additionally, this course introduces additional tools for reporting. You will le
 <br>  - [Seaborn]( https://seaborn.pydata.org/ ){:target="_blank"} = Statistical data visualization 
 <br>  - [Plotly]( https://plotly.com/python/ ){:target="_blank"} = This is graphing library that helps to make interactive, publication-quality graphs.
 
-
+https://github.com/elipapa/markdown-cv/tree/master
 
 -->
 
