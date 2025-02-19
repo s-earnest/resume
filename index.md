@@ -543,7 +543,22 @@ Additionally, this course introduces additional tools for reporting. You will le
 <br>Lord Roberts School, Vancouver, BC, Canada.
 
 
+## Relevant Training <i class="fas fa-university"></i>
+<br>
 
+`2025-current`
+**Canadian Securities Course (CSC®)**
+<br>[ Canadian Securities ]( https://www.csi.ca/en/learning/courses/csc ), Canada.
+
+Objective:
+<br>The Canadian Securities Course (CSC®) is a foundational credential required for financial services roles involving securities, mutual funds, and alternative funds. It helps learners meet regulatory requirements for licensing in various financial sectors, including mutual fund sales, exempt securities, and more. The course covers the Canadian financial services landscape, financial instruments, market performance analysis, and industry standards. It's ideal for those pursuing careers as investment advisors, mutual fund license holders, financial planners, or anyone seeking a role in the Canadian financial services industry. The course also prepares individuals to deal in Alternative Mutual Funds.
+
+`2025-current`
+**Conduct and Practices Handbook Course (CPH®)**, 
+<br>[ Canadian Securities ]( https://www.csi.ca/en/learning/courses/cph ),
+
+Objective:
+<br>The Conduct and Practices Handbook Course (CPH®) helps financial professionals navigate the complex regulatory landscape, ensuring compliance with provincial securities administrators and CIRO. The course focuses on ethics, standards of conduct, securities rules, and legislation. It’s ideal for investment advisors, financial services professionals, and those required to meet CIRO proficiency requirements, offering a deeper understanding of regulations governing securities professionals.
 
 
 ## Hobbies <i class="fas fa-campground"></i>
@@ -576,7 +591,7 @@ Additionally, this course introduces additional tools for reporting. You will le
 
 ## Contact <i class="fas fa-envelope-open"></i>
 
-<br> Have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
+<br> If you have a question? Feel free to send an [email](mailto:s.ernest@gmx.us) or if you prefer a virtual [meeting]( https://calendly.com/s-earnest/15min ){:target="_blank"}
 
 
 
