@@ -275,10 +275,10 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ### [ Aviso Wealth ]( https://www.aviso.ca/en/ ){:target="_blank"} 
 **Bilingual Client Officer**
 
-<br>—Provided assistance for product and administrative information to Credit Union advisors
-<br>—Investigate account-related problems using a variety of systems and take the appropriate action to correct such issues
-<br>—Communicate and coordinate with internal departments to ensure accurate information
-<br>—Good knowledge in the financial services industry
+<br>— Provided assistance for product and administrative information to Credit Union advisors
+<br>— Investigate account-related problems using a variety of systems and take the appropriate action to correct such issues
+<br>— Communicate and coordinate with internal departments to ensure accurate information
+<br>— Good knowledge in the financial services industry
 
 
 
@@ -287,17 +287,17 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ### [ Sterling Background Check Inc.]( https://www.sterlingbackcheck.ca/backcheck-canada/?utm_source=redirects&utm_medium=backcheck.net&utm_campaign=301_Redirects ){:target="_blank"} 
 **Bilingual Client Services**
 
-<br>—Responded to incoming calls from clients and candidates from 8 different telephone queues in English and French.
-<br>—Responded incoming emails from clients and candidates asking for clarifications regarding privacy.
-<br>—Maintained client files by modifying information relating to their accounts and users; add services and plans to accounts; reset passwords.
-<br>—Provided the liaison between candidate and client requests and the operations team followed by the company guidelines.
-<br>—Checked the status of files and orders for current customers.
-<br>—Supported clients during the review of their accounts; provide current customer service and pricing information.
-<br>—Gave instructions to applicants over the phone to help them complete consent forms.
-<br>—Logged client and candidate communication by entering their calls and emails into Salesforce.com.
-<br>—Manipulated information from different databases and e-application forms.
-<br>—Resolved any service disputes by clarifying procedures and explain over the phone client requirements and procedures.
-<br>—Responded questions regarding any privacy concerns.
+<br>— Responded to incoming calls from clients and candidates from 8 different telephone queues in English and French.
+<br>— Responded incoming emails from clients and candidates asking for clarifications regarding privacy.
+<br>— Maintained client files by modifying information relating to their accounts and users; add services and plans to accounts; reset passwords.
+<br>— Provided the liaison between candidate and client requests and the operations team followed by the company guidelines.
+<br>— Checked the status of files and orders for current customers.
+<br>— Supported clients during the review of their accounts; provide current customer service and pricing information.
+<br>— Gave instructions to applicants over the phone to help them complete consent forms.
+<br>— Logged client and candidate communication by entering their calls and emails into Salesforce.com.
+<br>— Manipulated information from different databases and e-application forms.
+<br>— Resolved any service disputes by clarifying procedures and explain over the phone client requirements and procedures.
+<br>— Responded questions regarding any privacy concerns.
 
 
 
@@ -309,26 +309,26 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 **Bilingual Claims Assistant**
 
 <br>DATA PROCESSING TASKS
-<br>—Sorted the mail to the different section of the Claims Department. 
-<br>—Shipped outgoing mail and parcels.
-<br>—Entered data on log system.
-<br>—Tracked supplies and printer paper and ordered supplies when needed.
-<br>—Processed all new paper claims and preparation for scanning.
-<br>—Indexed and ensured that document was readable for added to Case Management System.
-<br>—Prepared and send any medical charts requests.
-<br>—Process medical clinics invoice payment.
+<br>— Sorted the mail to the different section of the Claims Department. 
+<br>— Shipped outgoing mail and parcels.
+<br>— Entered data on log system.
+<br>— Tracked supplies and printer paper and ordered supplies when needed.
+<br>— Processed all new paper claims and preparation for scanning.
+<br>— Indexed and ensured that document was readable for added to Case Management System.
+<br>— Prepared and send any medical charts requests.
+<br>— Process medical clinics invoice payment.
 
 <br>ADMINISTRATIVE SUPPORT TASKS
-<br>—Responded to incoming calls from customers in English and French.
-<br>—Responded incoming emails from customers asking for clarifications regarding insurance coverage and exclusions.
-<br>—Maintained customers files by modifying information relating to their claim’s records.
-<br>—Provided the liaison between customers and claims specialist as per the company guidelines.
-<br>—Checked the status of files and payments for current customers’ claims.
-<br>—Gave instructions to applicants over the phone to help them complete claim forms.
-<br>—Logged customer’s communications by entering their calls and e-mail on tracking system.
-<br>—Manipulated information from different databases.
-<br>—Resolved any service complaints by clarifying procedures and explain over the phone contract’s terms and conditions.
-<br>—Responded questions regarding any privacy concerns.
+<br>— Responded to incoming calls from customers in English and French.
+<br>— Responded incoming emails from customers asking for clarifications regarding insurance coverage and exclusions.
+<br>— Maintained customers files by modifying information relating to their claim’s records.
+<br>— Provided the liaison between customers and claims specialist as per the company guidelines.
+<br>— Checked the status of files and payments for current customers’ claims.
+<br>— Gave instructions to applicants over the phone to help them complete claim forms.
+<br>— Logged customer’s communications by entering their calls and e-mail on tracking system.
+<br>— Manipulated information from different databases.
+<br>— Resolved any service complaints by clarifying procedures and explain over the phone contract’s terms and conditions.
+<br>— Responded questions regarding any privacy concerns.
 
 
 
@@ -338,17 +338,17 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 **Front Desk / Night Auditor**
 
 
-<br>—Prepared and arrange meeting room as needed.
-<br>—Arranged booking extra activities for hotel travelers with vouchers when needed.
-<br>—Performed reception desk and guest services duties, and handled guest general inquiries.
-<br>—Operated the hotel main switchboard, answered and transfer calls, monitored the hotel emergency lines, and act as overall communication hub for the hotel during my shift.
-<br>—Ensured all external and internal colleagues and guess inquiries and concerns regarding outdoors activities.
-<br>—Verified all invoices are accurate.
-<br>—Registered guests, and took payment and assigned guest rooms.
-<br>—Processed reservations received by e-mail or fax into the hotel booking system.
-<br>—Handled availability of room on booking reservation system.
-<br>—Settled guest account while ensuring all services standards were followed.
-<br>—Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
+<br>— Prepared and arrange meeting room as needed.
+<br>— Arranged booking extra activities for hotel travelers with vouchers when needed.
+<br>— Performed reception desk and guest services duties, and handled guest general inquiries.
+<br>— Operated the hotel main switchboard, answered and transfer calls, monitored the hotel emergency lines, and act as overall communication hub for the hotel during my shift.
+<br>— Ensured all external and internal colleagues and guess inquiries and concerns regarding outdoors activities.
+<br>— Verified all invoices are accurate.
+<br>— Registered guests, and took payment and assigned guest rooms.
+<br>— Processed reservations received by e-mail or fax into the hotel booking system.
+<br>— Handled availability of room on booking reservation system.
+<br>— Settled guest account while ensuring all services standards were followed.
+<br>— Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
 
 
 
@@ -358,18 +358,18 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ### Grouse INN Hotel
 **Front Desk / Night Auditor**
 
-<br>—Prepared and arrange meeting room as needed.
-<br>—Arranged booking extra activities for hotel travelers with vouchers when needed.
-<br>—Performed reception desk and guest services duties, and handled guest general inquiries.
-<br>—Operated the hotel main switchboard, answered and transfer calls, monitored the hotel emergency lines, and act as overall communication hub for the hotel during my shift.
-<br>—Ensured all external and internal colleagues and guess inquiries and concerns regarding outdoors activities.
-<br>—Verified all invoices are accurate.
-<br>—Registered guests, and took payment and assigned guest rooms.
-<br>—Processed reservations received by e-mail or fax into the hotel booking system.
-<br>—Handled availability of room on booking reservation system.
-<br>—Settled guest account while ensuring all services standards were followed.
-<br>—Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
-<br>—Handled payment by credit card, debit card or cash.
+<br>— Prepared and arrange meeting room as needed.
+<br>— Arranged booking extra activities for hotel travelers with vouchers when needed.
+<br>— Performed reception desk and guest services duties, and handled guest general inquiries.
+<br>— Operated the hotel main switchboard, answered and transfer calls, monitored the hotel emergency lines, and act as overall communication hub for the hotel during my shift.
+<br>— Ensured all external and internal colleagues and guess inquiries and concerns regarding outdoors activities.
+<br>— Verified all invoices are accurate.
+<br>— Registered guests, and took payment and assigned guest rooms.
+<br>— Processed reservations received by e-mail or fax into the hotel booking system.
+<br>— Handled availability of room on booking reservation system.
+<br>— Settled guest account while ensuring all services standards were followed.
+<br>— Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
+<br>— Handled payment by credit card, debit card or cash.
 
 
 
