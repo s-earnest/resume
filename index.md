@@ -281,7 +281,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Good knowledge in the financial services industry
 
 
-## Accomplishements <i class="fa-solid fa-seedling"></i>
+## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
