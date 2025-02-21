@@ -306,7 +306,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Responded questions regarding any privacy concerns.
 
 
-## Accomplishements <i class="fa-solid fa-seedling"></i>
+## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
@@ -340,7 +340,8 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Resolved any service complaints by clarifying procedures and explain over the phone contract’s terms and conditions.
 <br>— Responded questions regarding any privacy concerns.
 
-## Accomplishements <i class="fa-solid fa-seedling"></i>
+
+## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
@@ -366,7 +367,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
 
 
-## Accomplishements <i class="fa-solid fa-seedling"></i>
+## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
@@ -392,7 +393,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Handled payment by credit card, debit card or cash.
 
 
-## Accomplishements <i class="fa-solid fa-seedling"></i>
+## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
@@ -588,7 +589,7 @@ Objective:
 
 
 
-## Volunteering <i class="fa-solid fa-hand-holding-heart"></i>
+## Volunteering <i class="fa fa-hand-holding-heart"></i>
 <br>
 
 `2010-2017`
