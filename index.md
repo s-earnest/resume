@@ -561,6 +561,16 @@ Objective:
 <br>The Conduct and Practices Handbook Course (CPH®) helps financial professionals navigate the complex regulatory landscape, ensuring compliance with provincial securities administrators and CIRO. The course focuses on ethics, standards of conduct, securities rules, and legislation. It’s ideal for investment advisors, financial services professionals, and those required to meet CIRO proficiency requirements, offering a deeper understanding of regulations governing securities professionals.
 
 
+
+
+## Volunteering <i class="fa-solid fa-hand-holding-heart"></i>
+<br>
+
+`2010-2017`
+**Vancouver International Film Festival**, 
+<br>Vancouver BC, Canada.
+
+
 ## Hobbies <i class="fas fa-campground"></i>
 
 <br>**Travel**
