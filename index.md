@@ -281,12 +281,17 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Good knowledge in the financial services industry
 
 
+<!-- 
+
 ## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
 
 
+<br>
+
+-->
 
 `2018-10 - 2021-08`
 
@@ -306,11 +311,17 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Responded questions regarding any privacy concerns.
 
 
+<!-- 
+
 ## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
 
+
+<br>
+
+-->
 
 
 `2013-08 - 2018-05`
@@ -341,12 +352,17 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Responded questions regarding any privacy concerns.
 
 
+<!-- 
+
 ## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
 
 
+<br>
+
+-->
 
 `2011-08 - 2013-04`
 
@@ -367,11 +383,18 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
 
 
+<!-- 
+
 ## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
 
+
+<br>
+
+
+-->
 
 
 `2011-02 - 2011-11`
@@ -393,11 +416,16 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Handled payment by credit card, debit card or cash.
 
 
+<!-- 
+
 ## Accomplishements <i class="fa fa-seedling"></i>
 <br>
 
 > Prepared and arrange meeting room as needed.
 
+<br>
+
+-->
 
 
 <!--
@@ -596,6 +624,8 @@ Objective:
 **Vancouver International Film Festival**, 
 <br>Vancouver BC, Canada.
 
+
+<br>
 
 ## Hobbies <i class="fas fa-campground"></i>
 
