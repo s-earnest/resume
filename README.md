@@ -4,7 +4,7 @@ permalink: /index.html
 
 
 
-Markdown-cv
+Markdown-resume
 ===========
 
 A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
@@ -21,6 +21,6 @@ For more details see the [ project page ](https://elipapa.github.io/markdown-cv/
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
 
 
-Last Update: 20250217 20245 
+Last Update: 20250227 160129
 
 
