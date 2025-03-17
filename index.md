@@ -340,6 +340,9 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 > Prepared and arrange meeting room as needed.
 
 
+
+
+
 <br>
 
 -->
@@ -383,6 +386,10 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 <br>
 
+
+
+
+
 -->
 
 `2011-08 - 2013-04`
@@ -413,6 +420,9 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 
 <br>
+
+
+
 
 
 -->
@@ -446,7 +456,15 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 <br>
 
+
+
+
+
+
 -->
+
+
+
 
 
 <!--
@@ -455,7 +473,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 `In-progress`
 
-<br>`Scheduled 2025-03`
+<br>`Scheduled for 2025`
 
 <br>[Canadian Securities Course]( https://www.csi.ca/en/learning/courses/csc ){:target="_blank"} 
 
@@ -472,7 +490,7 @@ Attain a deeper knowledge of industry standards and codes of ethics.
 
 
 
-`Scheduled 2025-05`
+`Scheduled for 2025`
 
 <br>[Conduct and Practices Handbook Course]( https://www.csi.ca/en/learning/courses/cph ){:target="_blank"} 
 
@@ -489,7 +507,7 @@ Deeper knowledge of securities rules and legislation.
 
 
 
-
+-->
 
 
 ## Extra Curriculum Education <i class="fa fa-check-square" aria-hidden="true"></i>
@@ -544,7 +562,13 @@ Additionally, this course introduces additional tools for reporting. You will le
 <br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
 
 
+
+
+
+
 <!-- 
+
+
 `2024-03`
 <br>[L3-DA]( https://www.knime.com/learning#learning-path ){:target="_blank"} 
 <br>Productionizing Data Apps
@@ -595,6 +619,8 @@ Additionally, this course introduces additional tools for reporting. You will le
 <br>  - [Plotly]( https://plotly.com/python/ ){:target="_blank"} = This is graphing library that helps to make interactive, publication-quality graphs.
 
 https://github.com/elipapa/markdown-cv/tree/master
+
+
 
 -->
 
@@ -660,7 +686,7 @@ Objective:
 ## Languages <i class="fas fa-language"></i>
 
 <br>**Fluent:** English 
-<br>**Fluent:**: French 
+<br>**Fluent:** French 
 
 
 ## Personal <i class="fas fa-info-circle"></i>
