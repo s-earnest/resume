@@ -270,7 +270,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 
 
-`2022-05 - Current`
+`2022-05 - 2025-03`
 
 ### [ Aviso Wealth ]( https://www.aviso.ca/en/ ){:target="_blank"} 
 **Bilingual Client Officer**
