@@ -279,8 +279,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 **Bilingual Client Officer**
 
 
-##**Achievement:**
-
+**Achievement:**
 <br>— Achieved the highest score within the team by generating over 551 cases in a single month, setting a new benchmark for team productivity.
 <br>— Recognised as a highly knowledgeable agent with expertise in Financial Services procedures, effectively guiding advisors through the Procedure Centre and ensuring seamless operations.
 <br>— My exceptional communication skills were consistently praised for delivering precise, reliable information to address advisor inquiries.
@@ -327,10 +326,57 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 -->
 
+
+
+`2021-10 - 2022-04`
+
+### [ CIBC ]
+**Cash Processing Clerk** Part-time contract
+
+**Achievement:**
+<br>— Accuracy of 97% of my workflows.
+
+**Responsabilities**
+<br>— Processed cash deposit ensuring accuracy
+<br>— Verified the accuracy of cash and foreign currency transactions
+<br>— Reconciled discrepancies in cash records, and reported any issues
+<br>— Followed security protocols to ensure the safety of cash
+<br>— Provided reports on cash movement and balances to senior management
+
+
+
+
+
+
+
+
 `2018-10 - 2021-08`
 
 ### [ Sterling Background Check Inc.]( https://www.sterlingbackcheck.ca/backcheck-canada/?utm_source=redirects&utm_medium=backcheck.net&utm_campaign=301_Redirects ){:target="_blank"} 
 **Bilingual Client Services**
+
+**Achievement:**
+<br>— Maintained a record of over 3000 email responses for two consecutive semesters, demonstrating consistent high performance and commitment.
+<br>—  Recognised as an excellent and knowledgeable agent, with strong software skills in supporting customers efficiently and effectively.
+
+
+**Responsabilities**
+<br>— Answered incoming calls from clients and candidates across 8 different telephone queues in both English and French.
+<br>— Responded to client and candidate emails, providing clarifications on privacy-related matters.
+<br>— Updated and managed client files by modifying account information, adding services and plans, and resetting passwords.
+<br>— Updated accounts information for accuracy.
+<br>— Acted as the liaison between candidates, clients, and the operations team, adhering to company guidelines.
+<br>— Monitored the status of customer files and orders, ensuring timely updates.
+<br>— Assisted clients with reviewing their accounts and provided current service and pricing details.
+<br>— Guided applicants over the phone, helping them complete consent forms accurately.
+<br>— Recorded all clients and candidate interactions by logging calls and emails into CRM.
+<br>— Processed and manipulated data from various databases and e-application forms.
+<br>— Resolved service disputes by explaining procedures and clarifying client requirements over the phone.
+<br>— Addressed customer inquiries regarding privacy concerns, ensuring compliance with policies.
+
+
+
+
 
 <br>— Responded to incoming calls from clients and candidates from 8 different telephone queues in English and French.
 <br>— Responded incoming emails from clients and candidates asking for clarifications regarding privacy.
