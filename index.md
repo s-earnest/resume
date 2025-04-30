@@ -105,7 +105,7 @@ I honestly think you should get a good picture of who I am, what I like to do an
 <!-- ## Key Skills <i class="fas fa-briefcase"></i>  -->
 
 
-<br>— For over 5 years, I've been creating things on the web. I specialize in documenting my struggles with behavioral analysis, working with HTML/CSS, and designing personal workflows to become more efficient at work. I cut my teeth on poorly crafted HTML hosted within organizations. After graduating from school, I traveled around Europe and worked for local independent businesses.
+<br>— For over 5 years, I've been creating things on the web. I specialize in documenting my struggles with behavioral analysis, working with HTML/CSS, markdown and designing personal workflows to become more efficient at work. I cut my teeth on poorly crafted HTML hosted within organizations. After graduating from school, I traveled around Europe and worked for local independent businesses.
 <br>— I like to deliver exceptional service by promptly addressing customer inquiries and resolving issues, resulting in a 86% customer satisfaction rating. (B2B) 
 <br>— I developed and maintained comprehensive knowledge of company products and services to provide accurate and helpful information to customers. (B2C & B2B)
 <br>— I conducted in-depth analysis of customer behavior data to segment audiences and personalize communication strategies and client satisfaction. (B2C)
