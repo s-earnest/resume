@@ -286,6 +286,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— My exceptional communication skills were consistently praised for delivering precise, reliable information to address advisor inquiries.
 <br>— Additionally, my strong organisational abilities enabled me to efficiently manage and track more than 128 active cases simultaneously, contributing to team success.
 
+** Responsabilities**
 <br>— Offered product and administrative support to Credit Union advisors and clients across different business lines.
 <br>— Researched account-related issues across multiple systems and took the necessary steps to resolve them.
 <br>— Researched transaction history and provide assistance how to fix transaction errors.
