@@ -329,7 +329,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 `2021-10 - 2022-04`
 
-### [ CIBC ]
+### CIBC
 **Cash Processing Clerk** Part-time contract
 
 **Achievement:**
@@ -726,16 +726,19 @@ Objective:
 `2014-04 -2018-05`
 **Vancouver International Film Festival**, 
 <br>Vancouver BC, Canada.
+<br>
 **Objective:**
-<br>—  Personal networking with people that encourage understanding to the world cultures through the art of fostering the art of cinema, exceptional storytelling and meeting cinema professionals.
+<br>— Personal networking with people that encourage understanding to the world cultures through the art of fostering the art of cinema, exceptional storytelling and meeting cinema professionals.
 More than 600 hr. volunteering.
 
 
 `2007-01 - 2008-01`
 **FREE GEEK** 
-<br>— Computer recycling—Vancouver—BC
+<br>Computer recycling—Vancouver—BC
+<br>
+
 **Objective:**
-<br>—  This volunteering experience helped me to be more functional and have access to new digital technology. I also helped people that worked with me to break the digital gaps. Finally, I helped me to extend my personal network with people that believe in reducing computer hardware by avoiding disposing of landfills damage to the environment.
+<br>— This volunteering experience helped me to be more functional and have access to new digital technology. I also helped people that worked with me to break the digital gaps. Finally, I helped me to extend my personal network with people that believe in reducing computer hardware by avoiding disposing of landfills damage to the environment.
 
 
 
