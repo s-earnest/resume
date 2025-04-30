@@ -726,7 +726,7 @@ Objective:
 
 `2014-04 -2018-05`
 **Vancouver International Film Festival**, 
-<br>Vancouver BC, Canada.
+<br>Arts-Vancouver BC, Canada.
 <br>
 **Objective:**
 <br>— Personal networking with people that encourage understanding to the world cultures through the art of fostering the art of cinema, exceptional storytelling and meeting cinema professionals.
