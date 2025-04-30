@@ -330,7 +330,8 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 `2021-10 - 2022-04`
 
 ### CIBC
-**Cash Processing Clerk** Part-time contract
+**Cash Processing Clerk** 
+<br> Part-time contract
 
 **Achievement:**
 <br>— Accuracy of 97% of my workflows.
