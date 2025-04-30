@@ -199,6 +199,7 @@ Machine learning, forecasting
 
 
 * [ Tableau Public ]( https://s-earnest.github.io/posts/Crime-in-Vancouver/ ){:target="_blank"}
+
 -->
 
 
@@ -275,12 +276,21 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ### [ Aviso Wealth ]( https://www.aviso.ca/en/ ){:target="_blank"} 
 **Bilingual Client Officer**
 
-<br>— Provided assistance for product and administrative information to Credit Union advisors
-<br>— Investigate account-related problems using a variety of systems and take the appropriate action to correct such issues
-<br>— Communicate and coordinate with internal departments to ensure accurate information
-<br>— Good knowledge in the financial services industry
 
+**Achievement:**
 
+<br>— Achieved the highest score within the team by generating over 551 cases in a single month, setting a new benchmark for team productivity.
+<br>— Recognised as a highly knowledgeable agent with expertise in Financial Services procedures, effectively guiding advisors through the Procedure Centre and ensuring seamless operations.
+<br>— My exceptional communication skills were consistently praised for delivering precise, reliable information to address advisor inquiries.
+<br>— Additionally, my strong organisational abilities enabled me to efficiently manage and track more than 128 active cases simultaneously, contributing to team success.
+
+<br>— Offered product and administrative support to Credit Union advisors and clients across different business lines.
+<br>— Researched account-related issues across multiple systems and took the necessary steps to resolve them.
+<br>— Researched transaction history and provide assistance how to fix transaction errors.
+<br>— Collaborated with internal departments to ensure the accuracy of information, and special inquiries
+<br>— Possessed a strong understanding of the financial services industry.
+<br>— Reach out to Mutual Fund Representative to update financial and non-financial requests.
+<br>— Proficient in managing cloud-based systems for document storage and utilizing technology for data processing to optimize workflows
 
 
 <!-- 
