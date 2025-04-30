@@ -104,7 +104,9 @@ I honestly think you should get a good picture of who I am, what I like to do an
 
 <!-- ## Key Skills <i class="fas fa-briefcase"></i>  -->
 
-<br>— I delivered exceptional service by promptly addressing customer inquiries and resolving issues, resulting in a 95% customer satisfaction rating. (B2B) 
+
+<br>— For over 5 years, I've been creating things on the web. I specialize in documenting my struggles with behavioral analysis, working with HTML/CSS, and designing personal workflows to become more efficient at work. I cut my teeth on poorly crafted HTML hosted within organizations. After graduating from school, I traveled around Europe and worked for local independent businesses.
+<br>— I like to deliver exceptional service by promptly addressing customer inquiries and resolving issues, resulting in a 86% customer satisfaction rating. (B2B) 
 <br>— I developed and maintained comprehensive knowledge of company products and services to provide accurate and helpful information to customers. (B2C & B2B)
 <br>— I conducted in-depth analysis of customer behavior data to segment audiences and personalize communication strategies and client satisfaction. (B2C)
 <br>— I am currently applying statistical methods to measure the impact of customer success initiatives, demonstrating a clear correlation between increased support interactions and improved client retention rates.
@@ -277,7 +279,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 **Bilingual Client Officer**
 
 
-**Achievement:**
+### Achievement:
 
 <br>— Achieved the highest score within the team by generating over 551 cases in a single month, setting a new benchmark for team productivity.
 <br>— Recognised as a highly knowledgeable agent with expertise in Financial Services procedures, effectively guiding advisors through the Procedure Centre and ensuring seamless operations.
