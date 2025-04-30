@@ -279,14 +279,14 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 **Bilingual Client Officer**
 
 
-#### Achievement:
+##**Achievement:**
 
 <br>— Achieved the highest score within the team by generating over 551 cases in a single month, setting a new benchmark for team productivity.
 <br>— Recognised as a highly knowledgeable agent with expertise in Financial Services procedures, effectively guiding advisors through the Procedure Centre and ensuring seamless operations.
 <br>— My exceptional communication skills were consistently praised for delivering precise, reliable information to address advisor inquiries.
 <br>— Additionally, my strong organisational abilities enabled me to efficiently manage and track more than 128 active cases simultaneously, contributing to team success.
 
-** Responsabilities**
+**Responsabilities**
 <br>— Offered product and administrative support to Credit Union advisors and clients across different business lines.
 <br>— Researched account-related issues across multiple systems and took the necessary steps to resolve them.
 <br>— Researched transaction history and provide assistance how to fix transaction errors.
