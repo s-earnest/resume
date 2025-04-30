@@ -272,7 +272,6 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ## Work Experience <i class="fas fa-briefcase"></i>
 
 
-
 `2022-05 - 2025-03`
 
 ### [ Aviso Wealth ]( https://www.aviso.ca/en/ ){:target="_blank"} 
@@ -357,7 +356,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 **Achievement:**
 <br>— Maintained a record of over 3000 email responses for two consecutive semesters, demonstrating consistent high performance and commitment.
-<br>—  Recognised as an excellent and knowledgeable agent, with strong software skills in supporting customers efficiently and effectively.
+<br>— Recognised as an excellent and knowledgeable agent, with strong software skills in supporting customers efficiently and effectively.
 
 
 **Responsabilities**
@@ -375,20 +374,6 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Addressed customer inquiries regarding privacy concerns, ensuring compliance with policies.
 
 
-
-
-
-<br>— Responded to incoming calls from clients and candidates from 8 different telephone queues in English and French.
-<br>— Responded incoming emails from clients and candidates asking for clarifications regarding privacy.
-<br>— Maintained client files by modifying information relating to their accounts and users; add services and plans to accounts; reset passwords.
-<br>— Provided the liaison between candidate and client requests and the operations team followed by the company guidelines.
-<br>— Checked the status of files and orders for current customers.
-<br>— Supported clients during the review of their accounts; provide current customer service and pricing information.
-<br>— Gave instructions to applicants over the phone to help them complete consent forms.
-<br>— Logged client and candidate communication by entering their calls and emails into Salesforce.com.
-<br>— Manipulated information from different databases and e-application forms.
-<br>— Resolved any service disputes by clarifying procedures and explain over the phone client requirements and procedures.
-<br>— Responded questions regarding any privacy concerns.
 
 
 <!-- 
@@ -412,7 +397,15 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ### [ IA Groupe Financier ]( https://ia.ca/ ){:target="_blank"} 
 **Bilingual Claims Assistant**
 
-<br>DATA PROCESSING TASKS
+
+**Achievements:**
+<br>— Achieved an average First Contact Resolution (FCR) rate of 86%, demonstrating strong issue resolution skills.
+<br>— Maintained an average response time (ART) of 28 hours, ensuring timely and efficient customer service.
+<br>— Known for my exceptional ability to track down and recover misplaced paper files, ensuring smooth operations and minimising disruptions.
+
+
+**Responsabilities**
+<br>DATA PROCESSING
 <br>— Sorted the mail to the different section of the Claims Department. 
 <br>— Shipped outgoing mail and parcels.
 <br>— Entered data on log system.
@@ -422,7 +415,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 <br>— Prepared and send any medical charts requests.
 <br>— Process medical clinics invoice payment.
 
-<br>ADMINISTRATIVE SUPPORT TASKS
+<br>ADMINISTRATIVE SUPPORT
 <br>— Responded to incoming calls from customers in English and French.
 <br>— Responded incoming emails from customers asking for clarifications regarding insurance coverage and exclusions.
 <br>— Maintained customers files by modifying information relating to their claim’s records.
@@ -492,18 +485,22 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 ### Grouse INN Hotel
 **Front Desk / Night Auditor**
 
-<br>— Prepared and arrange meeting room as needed.
-<br>— Arranged booking extra activities for hotel travelers with vouchers when needed.
-<br>— Performed reception desk and guest services duties, and handled guest general inquiries.
-<br>— Operated the hotel main switchboard, answered and transfer calls, monitored the hotel emergency lines, and act as overall communication hub for the hotel during my shift.
-<br>— Ensured all external and internal colleagues and guess inquiries and concerns regarding outdoors activities.
-<br>— Verified all invoices are accurate.
-<br>— Registered guests, and took payment and assigned guest rooms.
-<br>— Processed reservations received by e-mail or fax into the hotel booking system.
-<br>— Handled availability of room on booking reservation system.
-<br>— Settled guest account while ensuring all services standards were followed.
-<br>— Ensured all hotel reports, and accounting reports were printed, and verified, and balanced.
-<br>— Handled payment by credit card, debit card or cash.
+<br>— Coordinated and booked additional activities for hotel guests, providing vouchers when necessary.
+<br>— Performed reception desk duties and guest services, addressing general guest inquiries.
+-<br>— Operated the hotel’s main switchboard, answered and transferred calls, monitored emergency lines, and served as the primary communication hub during my shift.
+<br>— Addressed inquiries and concerns from both external and internal colleagues and guests regarding outdoor activities.
+<br>— Ensured the accuracy of all invoices.
+<br>— Registered guests, processed payments, and assigned rooms.
+<br>— Entered reservations received via email or fax into the hotel booking system.
+<br>— Managed room availability within the hotel reservation system.
+<br>— Finalized guest accounts, ensuring compliance with all service standards.
+<br>— Printed, verified, and balanced hotel and accounting reports.
+<br>— Processed payments via credit card, debit card, or cash.
+<br>— Prepared and organized meeting rooms as required.
+
+
+
+
 
 
 <!-- 
@@ -726,9 +723,20 @@ Objective:
 ## Volunteering <i class="fa fa-hand-holding-heart"></i>
 <br>
 
-`2010-2017`
+`2014-04 -2018-05`
 **Vancouver International Film Festival**, 
 <br>Vancouver BC, Canada.
+**Objective:**
+<br>—  Personal networking with people that encourage understanding to the world cultures through the art of fostering the art of cinema, exceptional storytelling and meeting cinema professionals.
+More than 600 hr. volunteering.
+
+
+`2007-01 - 2008-01`
+**FREE GEEK** 
+<br>— Computer recycling—Vancouver—BC
+**Objective:**
+<br>—  This volunteering experience helped me to be more functional and have access to new digital technology. I also helped people that worked with me to break the digital gaps. Finally, I helped me to extend my personal network with people that believe in reducing computer hardware by avoiding disposing of landfills damage to the environment.
+
 
 
 <br>
