@@ -447,7 +447,7 @@ Getting the hands dirty is one **preferred way of learning**, working with smart
 
 `2011-08 - 2013-04`
 
-### [ Victorial Hotel ]( https://victorianhotel.ca/ ){:target="_blank"} 
+### [ Victorian Hotel ]( https://victorianhotel.ca/ ){:target="_blank"} 
 **Front Desk / Night Auditor**
 
 
