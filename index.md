@@ -572,13 +572,33 @@ Deeper knowledge of securities rules and legislation.
 
 <br>- [Predictive Analytics Essential Training](https://www.linkedin.com/learning/certificates/8d0368b54a57ef8a51dcce6ebba91ef884c080f5024dcabd806ad82d619f3f9c){:target="_blank"}    `2024-Jun.`
 
+<!-- 
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+--> 
+
 <br>- [Codeless Machine Learning with KNIME]( https://www.linkedin.com/learning/certificates/5f7aeb8191650875aaf69c8a297958569ce42aa2db544db99f75791d8116cc11 ){:target="_blank"}   `2014-Jan.` 
+
+<!-- 
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+--> 
 
 <br>- [Machine Learning Foundations]( https://www.linkedin.com/learning/certificates/722b7040b6df696571b59eb55594feba3f0fd9e9e6db66d6fbcd158bd87b5634 ){:target="_blank"}   `2014-Feb.`
 
+<!-- 
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+--> 
+
 <br>- [Six-Sigma Black Belt]( https://www.linkedin.com/learning/certificates/c3f3c236b7f781084a7117dc46a29d6b430a64ffc8a236188f3004c54d952f41  ){:target="_blank"}  `2014-Jan.`
 
+<!-- 
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+--> 
+
 <br>- [Machine Learning & Data Annotation](https://www.linkedin.com/learning/certificates/59ce44543b638f1f64922baef684cc640b0778d704891a91a248ead5af7bef34){:target="_blank"}    `2014-Feb.`
+
+<!-- 
+<br> [Attendancy Report]( /assets/2024_KNIME_L4-ML.pdf ){:target="_blank"}
+--> 
 
 
 
